@@ -6,11 +6,6 @@ It follows **Infrastructure as Code (IaC)** best practices, using a **modular ap
 
 ---
 
-## 📊 Architecture Diagram
-![AWS 3-Tier Architecture](architecture.png)
-
----
-
 ## 🏗️ Infrastructure Components
 
 ### 1️⃣ Networking Layer
